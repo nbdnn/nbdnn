@@ -9,7 +9,7 @@ I am improving my software developer skills, as front end frameworks and web bas
 ### Important informations
 
 - 📫 How to reach me: gm.neves@protonmail.com is the better way. Feel free to contact me and go to talk about the space!!
-- ⚡ Fun fact: I am brazilian and love dogs 😄
+- ⚡ Fun fact: I am brazilian and I love dogs 😄
 
 ### My research papers 📜
 
