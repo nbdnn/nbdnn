@@ -1,4 +1,4 @@
-### What I studied and working with 📚
+### Hi! I'm Guilherme Neves 👋
 
 🔭 I am graduted in aeronautical engineering by São Paulo Sate University and I have researched about interplanetary orbit design using genetic algorithm to reduce the fuel costing since 2018. Today I am working with the development of a Space Situational Awareness system focusing on Space Surveillance and Tracking, besides that my newest research project is concern collision avoidance maneuvers optimization using evolutionary algorithms. I also work with the estimation orbit after the tracking, determining the ephemeris and covariance matrix of the object.
 
@@ -18,3 +18,6 @@ Use of an evolutionary algorithm to optimize interplanetary transfers. REVISTA M
 
 NEVES, G. M.; SANTOS, D. P. S.; FORMIGA, J. K. S.; DOMINGOS, R. C.
 Orbital maneuvers for asteroids using genetic algorithm. JOURNAL OF PHYSICS. CONFERENCE SERIES (PRINT). , v.1365, p.012019 - , 2019.
+
+
+
